@@ -174,6 +174,137 @@ Step 5: MITRE ATT&CK 英文原版   → 国际最新战术技术
 
 ---
 
+## 十一、渗透测试工具大全（共 12 个）
+
+> 覆盖信息收集 → 漏洞扫描 → 漏洞利用 → 后渗透全流程，按渗透测试生命周期分类。
+
+| # | 资源名称 | 链接 | 特点 |
+|---|---------|------|------|
+| 1 | **Awesome_Pentest_Tools** 🥇 | https://github.com/sangnigege/Awesome_Pentest_Tools | 一站式渗透测试与红队工具合集，按 MITRE ATT&CK 分类，含指纹识别/漏扫/代码审计/内网渗透 |
+| 2 | **SecToolKit** | https://github.com/ProbiusOfficial/SecToolKit | CTF + 渗透工具仓库，收录常用/前沿安全工具及官方文档 |
+| 3 | **awesome-cyber-security** | https://github.com/alphaSeclab/awesome-cyber-security | 超全网络安全资源，含渗透/免杀/C2/后渗透/AD域/威胁狩猎等分类 |
+| 4 | **awesome-pentest** | https://github.com/enaqx/awesome-pentest | 经典渗透测试资源合集，含在线资源/漏洞数据库/报告模板 |
+| 5 | **awesome-security-tools-2026** | https://github.com/spinov001-art/awesome-security-tools-2026 | 150+ 安全工具，覆盖渗透/漏扫/网络/云/容器/API/OSINT/取证 |
+| 6 | **网络安全工具箱 100+ 工具** | https://blog.csdn.net/cui_yonghua/article/details/162704740 | 120+ 工具分类速查，按 Kill Chain 选型，红蓝队最小工具箱推荐 |
+| 7 | **RedblueBox 红蓝工具箱** | https://github.com/pinglanlab/RedblueBox | Windows 图形化安全渗透集成工具箱，百款工具一盒打尽，开箱即用 |
+| 8 | **渗透师安全导航** | https://www.shentoushi.top/knowledge | 网络安全从业者导航，含漏洞平台/SRC/APT攻防/CTF/在线工具/靶机 |
+| 9 | **Tool_Summary 工具汇总** | https://github.com/djytmdj/Tool_Summary | 网络安全测试工具汇总，含漏洞库/利用工具/扫描器/内网渗透/字典 |
+| 10 | **Online_tools 工具商城** | https://github.com/CuriousLearnerDev/Online_tools | 315+ 安全工具集成，支持 AI 自动化调用（HexStrike），类软件商城 |
+| 11 | **Kali Tools 官方工具库** | https://www.kali.org/tools/ | Kali Linux 官方 600+ 安全工具，每个工具都有详细使用说明 |
+| 12 | **HackDB 红队资源目录** | https://hackdb.com/ | 红队/渗透测试/白帽黑客资源数据库，含工具/平台/服务分类索引 |
+
+---
+
+## 十二、漏洞数据库与情报平台（共 12 个）
+
+| # | 资源名称 | 链接 | 特点 |
+|---|---------|------|------|
+| 1 | **Seebug 漏洞平台** 🥇 | https://www.seebug.org/ | 知道创宇运营，**52,206+ 漏洞**，44,236 PoC，国内权威漏洞库 |
+| 2 | **Exploit-DB** | https://www.exploit-db.com/ | **50,000+** 漏洞利用代码、shellcode、论文，含 SearchSploit 离线搜索 |
+| 3 | **NVD 美国国家漏洞数据库** | https://nvd.nist.gov/ | 美国政府官方漏洞库，含 CVSS 评分、CPE 影响评估 |
+| 4 | **CVE.org 官方项目** | https://www.cve.org/ | CVE 编号官方来源，全球漏洞编号标准 |
+| 5 | **CVE Details** | https://www.cvedetails.com/ | 将 NVD 数据可视化展示，漏洞统计/厂商排名/趋势分析 |
+| 6 | **Vulners** | https://vulners.com/ | 聚合多个漏洞数据库（NVD/Exploit-DB/GitHub 等），提供免费 API |
+| 7 | **CVE Tools** | https://cve.tools/ | **347,500+ CVEs**，65,400+ 关联 PoC，1,600+ CISA KEV，含 EPSS 评分 |
+| 8 | **VulnScope** | https://vulnscope.dev/zh | 以套件为主体的 CVE 查询工具，支持中文，**76,212 CVEs** |
+| 9 | **milw00rm** | https://milw00rm.com/ | **46,496** 漏洞利用脚本，按 Critical/High 分级 |
+| 10 | **CISA KEV 已知利用漏洞目录** | https://www.cisa.gov/known-exploited-vulnerabilities-catalog | **1,622 个**已确认在野利用的漏洞，CSV/JSON 下载 |
+| 11 | **expku 中文 exp 库** | https://www.expku.com/ | 打造中文最大 exploit 库，含远程/本地/Web 应用/DOS 分类 |
+| 12 | **Vulnify 开源工具目录** | https://www.vulnify.com/ | 开源安全工具搜索引擎，按分类/语言/许可证筛选对比 |
+
+---
+
+## 十三、在线靶场平台（共 15 个）
+
+| # | 资源名称 | 链接 | 特点 | 难度 |
+|---|---------|------|------|------|
+| 1 | **HackTheBox** 🥇 | https://www.hackthebox.com/ | 全球顶级渗透测试训练平台，200 万+ 用户，真实服务器靶机 | ⭐⭐⭐⭐⭐ |
+| 2 | **TryHackMe** | https://tryhackme.com/ | 引导式学习路径，500+ rooms，浏览器内靶机，无需搭建 | ⭐⭐ |
+| 3 | **PentesterLab** | https://pentesterlab.com/ | Web 渗透测试专项训练，SQL 注入/XSS/文件上传等 | ⭐⭐⭐ |
+| 4 | **VulnHub** | https://www.vulnhub.com/ | 综合实战模拟平台，虚拟机镜像下载，实战贴合度极高 | ⭐⭐⭐⭐ |
+| 5 | **VulnStack 红日安全** | https://github.com/crow821/vulntarget | 内网渗透靶场系列，模拟企业内网/域控环境 | ⭐⭐⭐⭐⭐ |
+| 6 | **攻防世界** | https://adworld.xctf.org.cn/ | 国内主流 CTF 靶场，汇集大量 CTF 真题，新手到高手分级 | ⭐⭐ |
+| 7 | **CTFHub** | https://www.ctfhub.com/ | CTF 专项练习，按题型分类（SQL 注入/XSS/文件上传等），在线刷题 | ⭐⭐ |
+| 8 | **RootMe** | https://www.root-me.org/ | 国际知名免费 CTF 靶场，涵盖 Web/密码学/逆向/网络 | ⭐⭐⭐⭐ |
+| 9 | **墨者学院** | https://www.mozhe.cn/ | 国内综合靶场，Web/主机/数据库/网络安全/代码审计 | ⭐⭐ |
+| 10 | **封神台（合天网安）** | https://www.hetianlab.com/ | 国内高阶实战靶场，真实漏洞复现，SRC 漏洞场景 | ⭐⭐⭐⭐ |
+| 11 | **HeaSecWebLab 天积安全** | https://github.com/HeaSec/HeaSecWebLab | 85 个独立 WEB 靶场，覆盖 HTTP 基础到业务逻辑漏洞，AI 辅助 | ⭐ |
+| 12 | **DVWA** | https://github.com/digininja/DVWA | 经典 PHP 漏洞靶场，入门首选 | ⭐ |
+| 13 | **SQLi-Lab / Upload-Lab / XSS-Lab** | https://github.com/Audi-1/sqli-labs | 专项漏洞练习靶场系列，适合逐个突破 | ⭐⭐ |
+| 14 | **Vulhub** | https://github.com/vulhub/vulhub | Docker 一键搭建漏洞环境，覆盖 CVE-2024-27198 等数百个漏洞 | ⭐⭐ |
+| 15 | **Vulfocus** | https://github.com/cn360cn/vulfocus | 漏洞集成平台，在线漏洞复现环境 | ⭐⭐ |
+
+---
+
+## 十四、安全社区与博客（共 8 个）
+
+| # | 资源名称 | 链接 | 特点 |
+|---|---------|------|------|
+| 1 | **The Hacker News** 🥇 | https://thehackernews.com/ | 每日更新，500 万+ 月活，深度分析黑客事件/漏洞披露/安全趋势 |
+| 2 | **Seebug Paper** | https://paper.seebug.org/ | 知道创宇安全技术文章，高质量漏洞分析/攻防技术 |
+| 3 | **0x00sec** | https://0x00sec.org/ | 技术深度高，Exploit 开发/恶意软件分析/逆向工程社区 |
+| 4 | **小迪渗透吧** | https://www.xiaodi8.com/ | 安全知识库，含 OWASP LLM 靶场/云安全/红蓝对抗/Payload 平台 |
+| 5 | **渗透师导航** | https://www.shentoushi.top/knowledge | 安全从业者导航站，聚合国内外漏洞平台/SRC/博客/工具/社区 |
+| 6 | **FreeBuf** | https://www.freebuf.com/ | 国内知名安全媒体，漏洞分析/安全研究/行业资讯 |
+| 7 | **先知社区** | https://xz.aliyun.com/ | 阿里云安全社区，高质量技术文章/漏洞复现/CTF 题解 |
+| 8 | **安全客** | https://www.anquanke.com/ | 安全资讯/技术博客/漏洞分析/安全活动 |
+
+---
+
+## 十五、蓝队资源（共 8 个）
+
+| # | 资源名称 | 链接 | 特点 |
+|---|---------|------|------|
+| 1 | **蓝队资源大合集** 🥇 | https://blue.y1ng.org/0x1_blue_team-resources/ | 蓝队方向资源大全，含 DevSecOps/EDR/SIEM/蜜罐/威胁狩猎/取证 |
+| 2 | **Wazuh** | https://github.com/wazuh/wazuh | 开源 HIDS + SIEM，多平台代理安全监控，蓝队入门首选 |
+| 3 | **Security Onion** | https://github.com/Security-Onion-Solutions/security-onion | 免费开源 GNU/Linux 发行版，用于入侵检测/企业安全监控/日志管理 |
+| 4 | **Suricata** | https://github.com/OISF/suricata | 开源高性能 IDS/IPS，支持 NSM 模式，兼容 Snort 规则 |
+| 5 | **Zeek** | https://github.com/zeek/zeek | 开源网络安全分析工具，监测网络流量中的可疑活动 |
+| 6 | **TheHive** | https://github.com/TheHive-Project/TheHive | 可扩展免费安全事件响应平台，与 MISP 紧密集成 |
+| 7 | **MISP 威胁情报** | https://github.com/MISP/MISP | 开源威胁情报共享平台，蓝队/CSIRT 核心工具 |
+| 8 | **Velociraptor** | https://github.com/Velocidex/velociraptor | 端点取证与数字调查工具，蓝队/事件响应必备 |
+
+---
+
+## 十六、Awesome 系列资源合集（共 7 个）
+
+| # | 资源名称 | 链接 | 特点 |
+|---|---------|------|------|
+| 1 | **Awesome-Hacking** 🥇 | https://github.com/Hack-with-Github/Awesome-Hacking | **80,000+** GitHub 星标，分类整理的安全资源链接，社区持续维护 |
+| 2 | **awesome-pentest** | https://github.com/enaqx/awesome-pentest | 经典渗透测试资源列表，含在线资源/漏洞数据库/报告模板 |
+| 3 | **awesome-cyber-security** | https://github.com/alphaSeclab/awesome-cyber-security | 超全安全资源，含渗透/免杀/C2/后渗透/AD/威胁狩猎 |
+| 4 | **awesome-security-tools-2026** | https://github.com/spinov001-art/awesome-security-tools-2026 | 150+ 2026 年安全工具，按渗透/漏扫/网络/云/容器/API/OSINT 分类 |
+| 5 | **Awesome_Pentest_Tools** | https://github.com/sangnigege/Awesome_Pentest_Tools | 渗透测试全生命周期工具合集，按 MITRE ATT&CK 分类 |
+| 6 | **SecLists** | https://github.com/danielmiessler/SecLists | 渗透测试字典合集，安全研究人员必备 |
+| 7 | **PayloadsAllTheThings** | https://github.com/swisskyrepo/PayloadsAllTheThings | Payload 速查手册，覆盖 Web 注入/文件包含/XXE/SSRF 等 |
+
+---
+
+## 十七、SRC/漏洞赏金平台（共 5 个）
+
+| # | 资源名称 | 链接 | 特点 |
+|---|---------|------|------|
+| 1 | **HackerOne** 🥇 | https://www.hackerone.com/ | 全球最大漏洞赏金平台，已支付超 2.3 亿美元，100 万+ 安全研究员 |
+| 2 | **Bugcrowd** | https://www.bugcrowd.com/ | 国际知名漏洞赏金平台，众测/漏洞披露 |
+| 3 | **补天平台** | https://butian.360.cn/ | 360 旗下漏洞响应平台，国内最大 SRC 之一 |
+| 4 | **漏洞盒子** | https://www.vulbox.com/ | 安全众测与漏洞发现平台，企业 SRC 服务 |
+| 5 | **CNVD 漏洞报送** | https://www.cnvd.org.cn/ | 国家信息安全漏洞共享平台，漏洞报送/验证 |
+
+---
+
+## 十八、网络安全认证体系（共 6 个）
+
+| # | 认证名称 | 发证机构 | 链接 | 特点 |
+|---|---------|---------|------|------|
+| 1 | **OSCP / OSWE / OSEP / OSED** 🥇 | Offensive Security | https://www.offensive-security.com/ | 业界最受认可的实战认证，"Try Harder" 考试模式 |
+| 2 | **CISSP** | ISC² | https://www.isc2.org/ | 高级安全从业者认证，全球认可度最高 |
+| 3 | **CISA / CISM / CGEIT** | ISACA | https://www.isaca.org/ | 审计/管理/治理方向，企业安全管理者首选 |
+| 4 | **CEH** | EC-Council | https://www.eccouncil.org/ | 认证白帽黑客，入门级渗透测试认证 |
+| 5 | **Security+ / CySA+** | CompTIA | https://www.comptia.org/ | 基础安全认证，适合转行入门 |
+| 6 | **CCSK / CCSP** | CSA / ISC² | https://cloudsecurityalliance.org/ | 云安全认证，云计算安全方向 |
+
+---
+
 ## 附录：快速查找表
 
 ### 常见安全缩略词速查
