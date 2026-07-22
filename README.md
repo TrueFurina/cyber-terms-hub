@@ -22,20 +22,27 @@
 
 ## 一、中文术语大全（最推荐，共 12 个）
 
-| # | 资源名称 | 链接 | 特点 | 图片 |
-|---|---------|------|------|------|
-| 1 | **CyberGlossary 中文版** 🥇 | https://www.cyberglossary.org/zh | 分类清晰（攻击/威胁/密码学/网络/云安全等），附 CVE 案例，更新及时 | ![CyberGlossary 中文版截图](images/image-20260721105554899.png) |
-| 2 | **CN-SEC 中英文术语大全** | https://cn-sec.com/archives/3320996.html | A-Z 字母排序，中英对照，系统全面 | ![CN-SEC 术语大全截图](images/image-20260721105658851.png) |
-| 3 | **CSDN 网络安全黑话指南** | https://blog.csdn.net/shuryuu/article/details/121212187 | 最全详解，含攻击工具/方法/防守技术/软硬件，入门必看 |  |
-| 4 | **FreeBuf 专业术语解释** | https://m.freebuf.com/articles/network/243201.html | APT/XSS/DoS 等概念详细解释，适合进阶 |  |
-| 5 | **CN-SEC 安全科普词条** | https://cn-sec.com/archives/886666.html | 含 POC/EXP/Shellcode/0Day/1Day/NDay 等核心概念 |  |
-| 6 | **腾讯云渗透测试名词** | https://cloud.tencent.com/developer/article/2580321 | 攻防双方名词全覆盖，含攻击载荷/漏洞/Shellcode 等 |  |
-| 7 | **盾灵导航中英文对照表** | https://www.dunling.com/24472.html | 分类清晰（基础/攻击/防御/密码/认证），实用 |  |
-| 8 | **2026 版 30 个核心术语** | https://www.gm7.org/archives/33597 | 2026 年最新版，含肉鸡/勒索/EDR/零信任/AI 安全等 |  |
-| 9 | **笨熊呆呆瓜 核心术语体系** | https://www.bxddg.com/archives/anquanhexishuyu | 结构化体系，从漏洞到渗透到防御到 APT 全链路 |  |
-| 10 | **阿里云 100 个中英文术语** | https://developer.aliyun.com/article/1632458 | 100 个术语详解，含认证/密码学/渗透测试等 |  |
-| 11 | **安厦科技 最全术语汇总** | http://www.isa-hsse.com/index.php?a=show&catid=192&id=53471 | 中英文对照，含 CISA/CISM/CISSP 认证术语 |  |
-| 12 | **Fortinet 20 种攻击类型** | https://www.fortinet.com/cn/resources/cyberglossary/types-of-cyber-attacks | 20 种常见攻击类型详解，含防御建议 |  |
+| # | 资源名称 | 链接 | 特点 |
+|---|---------|------|------|
+| 1 | **CyberGlossary 中文版** 🥇 | https://www.cyberglossary.org/zh | 分类清晰（攻击/威胁/密码学/网络/云安全等），附 CVE 案例，更新及时 |
+| 2 | **CN-SEC 中英文术语大全** | https://cn-sec.com/archives/3320996.html | A-Z 字母排序，中英对照，系统全面 |
+| 3 | **CSDN 网络安全黑话指南** | https://blog.csdn.net/shuryuu/article/details/121212187 | 最全详解，含攻击工具/方法/防守技术/软硬件，入门必看 |
+| 4 | **FreeBuf 专业术语解释** | https://m.freebuf.com/articles/network/243201.html | APT/XSS/DoS 等概念详细解释，适合进阶 |
+| 5 | **CN-SEC 安全科普词条** | https://cn-sec.com/archives/886666.html | 含 POC/EXP/Shellcode/0Day/1Day/NDay 等核心概念 |
+| 6 | **腾讯云渗透测试名词** | https://cloud.tencent.com/developer/article/2580321 | 攻防双方名词全覆盖，含攻击载荷/漏洞/Shellcode 等 |
+| 7 | **盾灵导航中英文对照表** | https://www.dunling.com/24472.html | 分类清晰（基础/攻击/防御/密码/认证），实用 |
+| 8 | **2026 版 30 个核心术语** | https://www.gm7.org/archives/33597 | 2026 年最新版，含肉鸡/勒索/EDR/零信任/AI 安全等 |
+| 9 | **笨熊呆呆瓜 核心术语体系** | https://www.bxddg.com/archives/anquanhexishuyu | 结构化体系，从漏洞到渗透到防御到 APT 全链路 |
+| 10 | **阿里云 100 个中英文术语** | https://developer.aliyun.com/article/1632458 | 100 个术语详解，含认证/密码学/渗透测试等 |
+| 11 | **安厦科技 最全术语汇总** | http://www.isa-hsse.com/index.php?a=show&catid=192&id=53471 | 中英文对照，含 CISA/CISM/CISSP 认证术语 |
+| 12 | **Fortinet 20 种攻击类型** | https://www.fortinet.com/cn/resources/cyberglossary/types-of-cyber-attacks | 20 种常见攻击类型详解，含防御建议 |
+
+### 📸 网站截图预览
+
+<p align="center">
+  <img src="images/image-20260721105554899.png" width="45%" alt="CyberGlossary 中文版截图">
+  <img src="images/image-20260721105658851.png" width="45%" alt="CN-SEC 术语大全截图">
+</p>
 
 ---
 
