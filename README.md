@@ -349,6 +349,34 @@ Step 5: MITRE ATT&CK 英文原版   → 国际最新战术技术
 
 ---
 
+## 🖼️ 网站截图画廊
+
+所有 131 个资源的网站首页截图已自动生成，点击下方链接查看完整画廊：
+
+👉 **[📸 查看完整截图画廊](images/screenshots/README.md)** （共 112 个网站截图）
+
+### 部分预览
+
+<p align="center">
+  <img src="images/screenshots/www_cyberglossary_org_zh_.png" width="30%" alt="CyberGlossary">
+  <img src="images/screenshots/cn-sec_com_archives_3320996_html.png" width="30%" alt="CN-SEC">
+  <img src="images/screenshots/blog_csdn_net_shuryuu_article_details_121212187.png" width="30%" alt="CSDN黑话指南">
+</p>
+<p align="center">
+  <img src="images/screenshots/attack_mitre_org_.png" width="30%" alt="MITRE ATT&CK">
+  <img src="images/screenshots/cwe_mitre_org_data_.png" width="30%" alt="CWE">
+  <img src="images/screenshots/www_seebug_org_.png" width="30%" alt="Seebug">
+</p>
+<p align="center">
+  <img src="images/screenshots/www_hackthebox_com_.png" width="30%" alt="HackTheBox">
+  <img src="images/screenshots/www_kali_org_tools_.png" width="30%" alt="Kali Tools">
+  <img src="images/screenshots/github_com_Hack-with-Github_Awesome-Hacking.png" width="30%" alt="Awesome-Hacking">
+</p>
+
+> 📌 截图由 Playwright + Chrome 自动生成，仅展示首页外观。部分网站可能需要登录或加载不全。
+
+---
+
 > 📌 **说明**：以上资源均来自互联网公开可访问的链接，建议收藏常用链接。部分资源可能需科学上网访问。所有链接最后验证日期为 2026-07-21。
 >
 > 💡 **建议**：将此文档加入飞书知识库或团队文档，方便夏令营同学随时查阅。
