@@ -380,3 +380,14 @@ Step 5: MITRE ATT&CK 英文原版   → 国际最新战术技术
 > 📌 **说明**：以上资源均来自互联网公开可访问的链接，建议收藏常用链接。部分资源可能需科学上网访问。所有链接最后验证日期为 2026-07-21。
 >
 > 💡 **建议**：将此文档加入飞书知识库或团队文档，方便夏令营同学随时查阅。
+
+---
+
+## License & Usage Notice
+
+**Source-Available · All Rights Reserved**
+
+This project is source-available and all rights are reserved by the author. The code is provided for **viewing and evaluation purposes only** — access does not grant any right to copy, modify, redistribute, use commercially, or create derivative works. Unauthorized reuse may carry legal risk. Contact the author for explicit written permission before any other use.
+
+**本仓库为「源码可查、权利保留」项目（source-available / all-rights-reserved）。代码仅供查看与评估，未授权任何复制、再分发、修改、商用或衍生创作。擅自借用代码存在法律风险；如有需要请先联系作者获取明确书面许可。**
+
